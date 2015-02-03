@@ -14,12 +14,12 @@ Then do:
 This will pipe the output of "scram b -j4" onto a file called build.log (so you can
 always get the raw log file if you need it.)
 
-the python file then parses the log file and formats the output to be a bit easier for the
-user to read.
+the python file then parses the log file and formats the output to be a bit easier for
+the user to read.
 
-==========================================================================================
+========================================================================================
 Overview
-==========================================================================================
+========================================================================================
 This script is designed to do a few things:
 
 - Add colour so the user has an idea which errors are similar.  (So far the colours are
@@ -30,9 +30,9 @@ This script is designed to do a few things:
   things easier for the user is a matter of taste.  Aidan can't stand very long lines,
   and they make is eyes glaze over.)
 
-==========================================================================================
+========================================================================================
   FAQ:
-==========================================================================================
+========================================================================================
 Is this thing complete?
   Nope.  Nowhere near.
     
@@ -43,8 +43,8 @@ Sometimes the lines wrap in such a way that I can't tell where the error was.
   Yeah, this isn't perfect and it needs to be fixed.
     
 Do the colours mean anything?
-  So far no, they just help the user identify similar error messages.  If you get a lot of
-  the cyan messages together then you probably missed to declare a whole block of
+  So far no, they just help the user identify similar error messages.  If you get a lot
+  of cyan messages together then you probably missed to declare a whole block of
   variables.
 
 Will this thing change/evolve over time?
