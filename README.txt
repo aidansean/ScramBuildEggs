@@ -37,7 +37,7 @@ Is this thing complete?
   Nope.  Nowhere near.
     
 Can I help?
-  Yes please!  For it and pull request improvements.
+  Yes please!  Fork it and pull request improvements.
     
 Sometimes the lines wrap in such a way that I can't tell where the error was.
   Yeah, this isn't perfect and it needs to be fixed.
