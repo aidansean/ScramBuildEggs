@@ -1,0 +1,11 @@
+[mathjax]
+
+This project parses a build log and gives more untuitive output.
+
+<h3>Links</h3>
+
+<a href="https://github.com/aidansean/ScramBuildEggs">GitHub repository</a>
+
+<h3>Overview</h3>
+
+This is a script that parses the build log created by the CMSSW command "scram build" (hence the name!)  It takes the output, wraps it to a more readable width, splits errors by type and colours them, and also gives more useful output.  It's not complete yet, but it is already rather useful.
