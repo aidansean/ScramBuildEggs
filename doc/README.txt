@@ -44,7 +44,7 @@ Sometimes the lines wrap in such a way that I can't tell where the error was.
     
 Do the colours mean anything?
   So far no, they just help the user identify similar error messages.  If you get a lot
-  of cyan messages together then you probably missed to declare a whole block of
+  of cyan messages together then you probably forgot to declare a whole block of
   variables.
 
 Will this thing change/evolve over time?
